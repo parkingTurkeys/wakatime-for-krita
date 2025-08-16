@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=wakatime_for_krita
+X-Python-2-Compatible=false
+Name=Wakatime for Krita
+Comment=use wakatime with krita. hackatime compatible!

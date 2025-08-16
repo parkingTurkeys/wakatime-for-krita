@@ -1,0 +1,1 @@
+from .wakatime_for_krita import *
